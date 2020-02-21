@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\21 Match Stick Game\21 Match Stick Game\bin\Debug\netcoreapp2.1\21 Match Stick Game.deps.json
+C:\Users\Admin\source\repos\21 Match Stick Game\21 Match Stick Game\bin\Debug\netcoreapp2.1\21 Match Stick Game.runtimeconfig.json
+C:\Users\Admin\source\repos\21 Match Stick Game\21 Match Stick Game\bin\Debug\netcoreapp2.1\21 Match Stick Game.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\21 Match Stick Game\21 Match Stick Game\bin\Debug\netcoreapp2.1\21 Match Stick Game.dll
+C:\Users\Admin\source\repos\21 Match Stick Game\21 Match Stick Game\bin\Debug\netcoreapp2.1\21 Match Stick Game.pdb
+C:\Users\Admin\source\repos\21 Match Stick Game\21 Match Stick Game\obj\Debug\netcoreapp2.1\21 Match Stick Game.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\21 Match Stick Game\21 Match Stick Game\obj\Debug\netcoreapp2.1\21 Match Stick Game.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\21 Match Stick Game\21 Match Stick Game\obj\Debug\netcoreapp2.1\21 Match Stick Game.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\21 Match Stick Game\21 Match Stick Game\obj\Debug\netcoreapp2.1\21 Match Stick Game.AssemblyInfo.cs
+C:\Users\Admin\source\repos\21 Match Stick Game\21 Match Stick Game\obj\Debug\netcoreapp2.1\21 Match Stick Game.dll
+C:\Users\Admin\source\repos\21 Match Stick Game\21 Match Stick Game\obj\Debug\netcoreapp2.1\21 Match Stick Game.pdb
